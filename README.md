@@ -1,69 +1,95 @@
-<h1 align="center">Hi 👋, I'm Bellamard Kiala</h1>
-<h3 align="center">
-Mordu d’informatique, je code dans divers langages informatiques. Polyvalent, je maîtrise les différentes étapes techniques de la création d’applications web, mobiles et jeux vidéo.
-</h3>
+
+<h1 align="center">Bienvenue 👋, je suis Bellamard Kiala</h1>
+<h3 align="center">Développeur passionné par l'informatique et les technologies modernes, je conçois des applications web, mobiles et des jeux vidéo avec créativité et précision. Polyvalent, je maîtrise l'ensemble des étapes techniques nécessaires pour créer des solutions innovantes et performantes.</h3>
+
+<p align="center">Toujours à l'affût des dernières tendances, j'explore continuellement de nouvelles technologies pour offrir des expériences utilisateur de qualité supérieure.</p>
 
 ---
 
 ### 🌐 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/belamard-kiala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bellamard Kiala LinkedIn" height="30" width="40" /></a>
-<a href="https://fb.com/bellamard.kiala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Bellamard Kiala Facebook" height="30" width="40" /></a>
-</p>
-
----
-
-### 🛠️ Languages and Tools:
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-</p>
-
----
-
-### 🌟 Visualisation des contributions :
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=bellamard&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph%20de%20Bellamard" alt="Graphique d'activité GitHub de Bellamard" />
-</p>
-
-### 📈 Mes Contributions :
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bellamard&show_icons=true&theme=react&hide_border=true" alt="Statistiques GitHub Bellamard" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bellamard&theme=react&hide_border=true" alt="Streak GitHub Bellamard" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bellamard&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="Langages les plus utilisés par Bellamard" />
-</p>
-
----
-
-### 🎖️ Trophées GitHub :
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bellamard&row=2&column=3&theme=monokai&no-frame=true&no-bg=true&margin-w=15" alt="Trophées GitHub Bellamard" />
-</p>
-
----
-
-### 🌍 Cartographie 3D des contributions :
-<p align="center">
-  <a href="https://skyline.github.com/bellamard/2023">
-    <img src="https://img.shields.io/badge/View%20Skyline-3D%20Contributions-blue?logo=github" alt="Voir le Skyline GitHub" />
+  <a href="https://linkedin.com/in/bellamard-kiala" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://facebook.com/bellamard.kiala" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-### 💻 Temps de code sur Wakatime :
-<a href="https://wakatime.com/@bellamard">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bellamard&layout=compact&theme=react&hide_border=true" alt="Statistiques de temps de code Wakatime de Bellamard" />
-</a>
+### 🔷 Langages de programmation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 📚 Frameworks et Bibliothèques
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="Symfony" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+</p>
+
+---
+
+### 🛠️ Outils et Environnements
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/canvas.svg" alt="Canvas" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" alt="Adobe Photoshop" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/illustrator-cc.svg" alt="Adobe Illustrator" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/>
+</p>
+
+---
+
+### 🗄️ Bases de données
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="SQLite" width="40" height="40"/>
+</p>
+
+---
+
+### 🏆 Achievements:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bellamard&theme=radical&no-frame=true&column=3&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📊 My GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bellamard&show_icons=true&theme=radical" alt="bellamard's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bellamard&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🌱 Contribution Graph:
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=bellamard&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bellamard&theme=radical" alt="Streak Stats" />
+</p>
+
