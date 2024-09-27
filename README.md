@@ -102,14 +102,7 @@
 
 
 
-### 📈 Mes Contributions :
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bellamard&row=2&column=3&theme=monokai&no-frame=true&no-bg=true&margin-w=15" alt="Trophées GitHub Bellamard" />
-</p>
 
-<p align="center">
-  <img src="https://github-contributions.vercel.app/api/v1/bellamard?chart_type=heatmap" alt="GitHub Contributions Heatmap" />
-</p>
 
 
 ---
