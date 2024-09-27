@@ -92,4 +92,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bellamard&theme=radical" alt="Streak Stats" />
 </p>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
