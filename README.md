@@ -98,12 +98,12 @@
 <!--END_SECTION:waka-->
 
 ---
+### ⏳ Temps de codage WakaTime (Hebdo)
+
+---
 
 🔭 *Toujours prêt à collaborer sur des projets à fort impact technologique.*
 
 ---
-
-
-
 
 
