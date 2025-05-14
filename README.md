@@ -1,109 +1,105 @@
 
 <h1 align="center">Bienvenue 👋, je suis Bellamard Kiala</h1>
-<h3 align="center">Développeur passionné par l'informatique et les technologies modernes, je conçois des applications web, mobiles et des jeux vidéo avec créativité et précision. Polyvalent, je maîtrise l'ensemble des étapes techniques nécessaires pour créer des solutions innovantes et performantes.</h3>
 
-<p align="center">Toujours à l'affût des dernières tendances, j'explore continuellement de nouvelles technologies pour offrir des expériences utilisateur de qualité supérieure.</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=28&center=true&vCenter=true&width=900&lines=Bienvenue+👋,+je+suis+Bellamard+Kiala;Fullstack+Senior+Developer+⚙️;Concepteur+de+Solutions+Numériques+Intelligentes+💡;Explorateur+IA+et+Robotique+🎮🤖" />
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Fullstack-informational?style=flat&logo=code&logoColor=white&color=0abde3"/>
+  <img src="https://img.shields.io/badge/IA-Embarquée-blueviolet?style=flat&logo=nvidia&logoColor=white&color=7d5fff"/>
+  <img src="https://img.shields.io/badge/Robotique-Educative-green?style=flat&logo=arduino&logoColor=white&color=10ac84"/>
+  <img src="https://img.shields.io/badge/Fintech-Services_Financiers-important?style=flat&logo=paypal&logoColor=white&color=ee5253"/>
+</p>
 
 ---
 
-### 🌐 Connect with me:
+## 🧠 À propos de moi
+
+> Ingénieur logiciel **fullstack senior**, je conçois des **solutions numériques innovantes** combinant **web, mobile, robotique éducative** et **intelligence artificielle embarquée**.  
+>  
+> Mes projets couvrent la **gamification pédagogique**, les **systèmes autonomes d’apprentissage**, et le **développement de produits numériques** centrés sur l’utilisateur.  
+>  
+> Je m’investis particulièrement dans l’**optimisation des services financiers numériques** via l’automatisation, la sécurité des flux, l’analyse comportementale et les microservices intelligents.  
+>  
+> Je privilégie les **technologies robustes, évolutives et interopérables** pour construire des expériences efficaces et fiables.
+
+---
+
+## 🌐 Connectez-vous avec moi
+
 <p align="center">
-  <a href="https://linkedin.com/in/bellamard-kiala" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://linkedin.com/in/bellamard-kiala" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/bellamard.kiala" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  <a href="https://facebook.com/bellamard.kiala" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🔷 Langages de programmation
+## 💻 Langages & Frameworks
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,php,python,csharp,kotlin,arduino,react,nextjs,nodejs,laravel,symfony,tailwind,bootstrap" />
 </p>
 
 ---
 
-### 📚 Frameworks et Bibliothèques
+## ⚙️ Outils & Technologies
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="Symfony" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,photoshop,illustrator,xd,figma,vscode,androidstudio,git,github,canvas" />
 </p>
 
 ---
 
-### 🛠️ Outils et Environnements
+## 🗄️ Bases de Données
+
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/canvas.svg" alt="Canvas" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" alt="Adobe Photoshop" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/illustrator-cc.svg" alt="Adobe Illustrator" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
 </p>
 
 ---
 
-### 🗄️ Bases de données
+## 🏆 Réalisations GitHub
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="SQLite" width="40" height="40"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=bellamard&theme=matrix&no-frame=true&column=3&margin-w=15" />
 </p>
 
 ---
 
-### 🏆 Achievements:
+## 📊 Statistiques GitHub
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bellamard&theme=radical&no-frame=true&column=3&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bellamard&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellamard&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📊 My GitHub Stats:
+## 🔥 Contributions et Activité
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bellamard&show_icons=true&theme=radical" alt="bellamard's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bellamard&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bellamard&theme=tokyonight&hide_border=true"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bellamard&theme=tokyonight" />
 </p>
 
 ---
 
-### 🌱 Contribution Graph:
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=bellamard&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
+## 🧪 En cours...
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bellamard&theme=radical" alt="Streak Stats" />
-</p>
 <!--START_SECTION:waka-->
-
+<!-- Les stats de codage apparaîtront ici si tu actives WakaTime -->
 <!--END_SECTION:waka-->
-### 🌟 Visualisation des contributions :
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bellamard&theme=radical" alt="Résumé du profil GitHub Bellamard" />
-</p>
 
+---
 
-
-
-
+🔭 *Toujours prêt à collaborer sur des projets à fort impact technologique.*
 
 ---
 
