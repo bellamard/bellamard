@@ -15,7 +15,7 @@
 
 ## 🥊 PROFIL DU COMBATTANT (À propos de moi)
 
-> **Guerrier Z / Ingénieur Logiciel Fullstack Senior**  
+> **Ingénieur Logiciel Fullstack Senior**  
 > En entraînement continu, je maîtrise l'art de concevoir des **solutions numériques surpuissantes** combinant le **web, le mobile, la robotique éducative** et **l'IA embarquée**.
 >
 > 💥 **Spécialités de combat :**
