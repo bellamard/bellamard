@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?color=FF8C00&size=30&center=true&vCenter=true&width=900&lines=PROFIL+DU+COMBATTANT+%3A+BELLAMARD+KIALA;FULLSTACK+SENIOR+DEVELOPER+%7C+IA+EMBARQU%C3%89E;RANG+%3A+SUPER+SAIYAN+BLUE" alt="Titre DBFZ" />
+  <img src="https://readme-typing-svg.demolab.com/?color=FF8C00&size=30&center=true&vCenter=true&width=900&lines=PROFIL+DU+COMBATTANT+%3A+BELLAMARD+KIALA;FULLSTACK+SENIOR+DEVELOPER+%7C+IA+EMBARQU%C[...]
 </h1>
 
 <!-- COMPOSANT EN TÊTE : STYLE FIGTHERZ AVEC TABLEAU HTML -->
@@ -31,7 +31,7 @@
             <p><b>RANG :</b> <font color="#FF8C00">SUPER SAIYAN BLUE</font></p>
             <p><b>STYLE :</b> Fullstack / IA / Fintech</p>
             <hr/>
-            <img src="https://github-readme-stats.vercel.app/api?username=bellamard&hide_title=true&hide_rank=true&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
+            <img src="https://github-readme-stats.vercel.app/api?username=bellamard&hide_title=true&hide_rank=true&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub stats" />
           </td>
         </tr>
       </table>
