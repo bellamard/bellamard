@@ -8,7 +8,7 @@
     <!-- Colonne gauche : carte de personnage -->
     <td width="35%" align="center" valign="top">
       <br/>
-      <img src="https://raw.githubusercontent.com/bellamard/bellamard/main/assets/warrior.png" width="90%" alt="Combattant Bellamard" />
+      <img src="./assets/warrior.svg" width="90%" alt="Combattant Bellamard" />
       <h2 align="center"><span style="color:#FF8C00">BELLAMARD</span></h2>
       <p align="center"><strong>FULLSTACK SENIOR DEV</strong></p>
       <p align="center">
@@ -53,10 +53,11 @@
 ## 🐉 LE DRAGON DES COMMITS (Eating / Snake Game)
 
 <p align="center">
+  <!-- Animation du Dragon (Snake) qui devore la grille de commits GitHub (Dragon Ball) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bellamard/bellamard/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bellamard/bellamard/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bellamard/bellamard/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="./assets/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
