@@ -8,7 +8,7 @@
     <!-- COLONNE GAUCHE : CARTE DE PERSONNAGE -->
     <td width="35%" align="center" valign="top">
       <br/>
-      <img src="https://raw.githubusercontent.com/bellamard/bellamard/main/assets/warrior.png" width="90%" alt="Combattant Bellamard" />
+      <img src="https://raw.githubusercontent.com/bellamard/bellamard/main/assets/warriors.png" width="90%" alt="Combattant Bellamard" />
       <h2 align="center"><font color="#FF8C00">BELLAMARD</font></h2>
       <p align="center"><b>FULLSTACK SENIOR DEV</b></p>
       <p align="center">
