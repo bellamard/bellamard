@@ -86,11 +86,4 @@
 
 ---
 
-### Remarques sur le design
-- J'ai simplifié la structure HTML pour garantir une bonne compatibilité avec le rendu GitHub while gardant l'esprit du modèle visuel (carte de personnage à gauche, blocs statistiques à droite).
-- Si tu veux un rendu plus fidèle (fonds, bordures stylées, ombres avancées), il faudra héberger une image du profil complet (PNG) et l'insérer en haut du README — GitHub Markdown ne permet pas d'injecter CSS externe avancé.
 
-Si tu veux, je peux :
-- Générer une image statique du profil (mockup) basée sur ton visuel et la pousser dans /assets.
-- Revenir sur le texte en français ou en anglais.
-- Ajouter des boutons d'appel à l'action (Contact, Projets) avec des liens.
